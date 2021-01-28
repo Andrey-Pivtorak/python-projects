@@ -1,3 +1,4 @@
+# a task: Monthly Sales Tax
 # global constants
 STATE_TAX_RATE = 0.05
 COUNTY_TAX_RATE = 0.025
