@@ -1,3 +1,5 @@
+# a task:  random number guessing game
+
 import random
 
 # global constants
