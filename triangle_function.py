@@ -1,3 +1,5 @@
+# a task:  turtle graphics: triangle function
+
 import turtle
 
 
