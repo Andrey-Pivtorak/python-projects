@@ -1,4 +1,4 @@
-# a task:  turtle graphics: city skyline
+# a task: turtle graphics: city skyline
 
 import turtle
 import random
